@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This profile space is a work in progress.
+
 <!--
 **VarunGadi/VarunGadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
